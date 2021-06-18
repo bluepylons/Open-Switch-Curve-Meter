@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "AcheronSymbols")(type "KiCad")(uri "${ACHERONLIB}/Open-Switch-Curve-Meter/PCB files/KiCAD-Libraries/AcheronLibrary/symbols/acheronSymbols.kicad_sym")(options "")(descr ""))
+)

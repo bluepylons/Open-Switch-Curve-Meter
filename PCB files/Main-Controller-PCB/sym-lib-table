@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "Open-Switch-Tester-parts")(type "KiCad")(uri "${ACHERONLIB}/Open-Switch-Curve-Meter/PCB files/KiCAD-Libraries/Open-Switch-Tester-parts.kicad_sym")(options "")(descr ""))
+)
