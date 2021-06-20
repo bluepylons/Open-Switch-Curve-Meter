@@ -189,6 +189,7 @@ Gazzew U4 stem in Cherry MX Clear housing:
 Input Club Halo Clear stem in Gazzew Boba housing - "Holy Boba"
 ![Holy Boba](https://github.com/bluepylons/Open-Switch-Curve-Meter/blob/main/Force%20curves/Okay-I'm-Just-Going-to-Calibrate-Every-Day-Now/Halo-Stem-In-Boba.png?raw=true)
 
+Kailh Polia stem in Zealio V2 bottom, Cherry top, 65gf Zealio V2 spring - "Zyko" variant:
 Kailh Pro Burgundy stem in Gateron KS-3 bottom, Gazzew Boba top - "Deadpool":
 ![Kailh Pro Burgundy stem in Gateron KS-3 bottom, Gazzew Boba top](https://github.com/bluepylons/Open-Switch-Curve-Meter/blob/main/Force%20curves/April-10-21-calibration/Kailh-Pro-Burgundy-stem-In-Gateron-KS-3-bottom-Gazzew-Boba-top.png?raw=true)
 
