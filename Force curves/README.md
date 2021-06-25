@@ -186,6 +186,9 @@ Gazzew U4 stem in Cherry MX Blue housing:
 Gazzew U4 stem in Cherry MX Clear housing:
 ![Gazzew U4 stem in Cherry MX Clear housing](https://github.com/bluepylons/Open-Switch-Curve-Meter/blob/main/Force%20curves/April-10-21-calibration/Gazzew-U4-stem-in-Cherry-MX-Clear.png?raw=true)
 
+Gazzew U4T stem, Kailh Polia stem, and Input Club x Kailh Halo Clear stem, in Boba housing:
+![Various stems in Boba](https://github.com/bluepylons/Open-Switch-Curve-Meter/blob/main/Force%20curves/Okay-I'm-Just-Going-to-Calibrate-Every-Day-Now/Polia-vs-Halo-vs-U4T-in-Boba.png?raw=true))
+
 Input Club Halo Clear stem in Gazzew Boba housing - "Holy Boba"
 ![Holy Boba](https://github.com/bluepylons/Open-Switch-Curve-Meter/blob/main/Force%20curves/Okay-I'm-Just-Going-to-Calibrate-Every-Day-Now/Halo-Stem-In-Boba.png?raw=true)
 
