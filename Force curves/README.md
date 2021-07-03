@@ -25,6 +25,12 @@ Durock (JWK) Sunflower (POM T1):
 Gateron Aliaz:                        
 ![Gateron Aliaz](https://github.com/bluepylons/Open-Switch-Curve-Meter/blob/main/Force%20curves/April-20-21-calibration/Gateron-Aliaz.png?raw=true)
 
+Gateron Cap Yellow:                         
+![Gateron Cap Yellow](https://github.com/bluepylons/Open-Switch-Curve-Meter/blob/main/Force%20curves/Okay-I'm-Just-Going-to-Calibrate-Every-Day-Now/Gateron-Cap-Yellow.png?raw=true)
+
+Gateron Ink Yellow:
+![Gateron Ink Yellow](https://github.com/bluepylons/Open-Switch-Curve-Meter/blob/main/Force%20curves/Okay-I'm-Just-Going-to-Calibrate-Every-Day-Now/Gateron-Ink-Yellow.png?raw=true)
+
 Gateron Kangaroo:
 ![Gateron Kangaroo](https://github.com/bluepylons/Open-Switch-Curve-Meter/blob/main/Force%20curves/Okay-I'm-Just-Going-to-Calibrate-Every-Day-Now/Gateron-Kangaroo.png?raw=true) 
 
@@ -39,6 +45,9 @@ Gazzew x Outemu Boba U4 Thock (U4T) 62gf:
 
 Gazzew x Outemu Boba U4 vs U4 Thock (U4T) 68gf:
 ![Gateron Limbo](https://github.com/bluepylons/Open-Switch-Curve-Meter/blob/main/Force%20curves/Okay-I'm-Just-Going-to-Calibrate-Every-Day-Now/Gazzew-Boba-U4-vs-U4T-68g-comparison.png?raw=true)
+
+Gazzew x Outemu Bobagum 52gf:
+![Gazzew Bobagum](https://github.com/bluepylons/Open-Switch-Curve-Meter/blob/main/Force%20curves/Okay-I'm-Just-Going-to-Calibrate-Every-Day-Now/Gazzew-Bobagum-52g.png?raw=true)
 
 Gazzew x Outemu Phoenix Stem in Boba housing:
 ![Gazzew Phoenix Stem in Boba](https://github.com/bluepylons/Open-Switch-Curve-Meter/blob/main/Force%20curves/April-10-21-calibration/Gazzew-Phoenix-in-Boba.png?raw=true)
@@ -75,6 +84,11 @@ KTT Gold:
 KTT Matcha:                                                   
 ![KTT Matcha](https://github.com/bluepylons/Open-Switch-Curve-Meter/blob/main/Force%20curves/April-20-21-calibration/KTT-Matcha.png?raw=true)
 
+KTT Strawberry:
+![KTT Strawberry](https://github.com/bluepylons/Open-Switch-Curve-Meter/blob/main/Force%20curves/Okay-I'm-Just-Going-to-Calibrate-Every-Day-Now/KTT-Strawberry.png?raw=true)
+
+Momoka Frog:
+![Momoka Frog](https://github.com/bluepylons/Open-Switch-Curve-Meter/blob/main/Force%20curves/Okay-I'm-Just-Going-to-Calibrate-Every-Day-Now/Momoka-Frog.png?raw=true)
 Moyu Black (Everglide Dark Jade)
 ![Everglide Dark Jade](https://github.com/bluepylons/Open-Switch-Curve-Meter/blob/main/Force%20curves/April-20-21-calibration/Moyu-Black%20(Everglide%20Dark%20Jade).png?raw=true)        
 *Note - these measured significantly differently than advertised on Drop, with significantly less travel (3.2mm vs 4mm advertised)
