@@ -114,6 +114,12 @@ Outemu Ice Purple 62gf:
 Outemu Silent Sky V2.2 68gf:
 ![Outemu Silent Sky](https://github.com/bluepylons/Open-Switch-Curve-Meter/blob/main/Force%20curves/April-4-21-calibration/Outemu-Silent-Sky.png?raw=true)
 
+Rebult x JWK Harimau:
+![Rebult Harimau](https://github.com/bluepylons/Open-Switch-Curve-Meter/blob/main/Force%20curves/Okay-I'm-Just-Going-to-Calibrate-Every-Day-Now/Rebult-JWK-Harimau.png?raw=true)
+
+Rebult x JWK Penyu:
+![Rebult Penyu](https://github.com/bluepylons/Open-Switch-Curve-Meter/blob/main/Force%20curves/Okay-I'm-Just-Going-to-Calibrate-Every-Day-Now/Rebult-JWK-Penyu.png?raw=true)
+
 SP Star x Kon MOMO: 
 ![SP Star Kon Momo](https://github.com/bluepylons/Open-Switch-Curve-Meter/blob/main/Force%20curves/Okay-I'm-Just-Going-to-Calibrate-Every-Day-Now/SP-Star-Kon-Momo.png?raw=true)
 
