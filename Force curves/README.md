@@ -87,8 +87,9 @@ KTT Matcha:
 KTT Strawberry:
 ![KTT Strawberry](https://github.com/bluepylons/Open-Switch-Curve-Meter/blob/main/Force%20curves/Okay-I'm-Just-Going-to-Calibrate-Every-Day-Now/KTT-Strawberry.png?raw=true)
 
-Momoka Frog:
-![Momoka Frog](https://github.com/bluepylons/Open-Switch-Curve-Meter/blob/main/Force%20curves/Okay-I'm-Just-Going-to-Calibrate-Every-Day-Now/Momoka-Frog.png?raw=true)
+Momoka Frog:              
+![Momoka Frog](https://github.com/bluepylons/Open-Switch-Curve-Meter/blob/main/Force%20curves/Okay-I'm-Just-Going-to-Calibrate-Every-Day-Now/Momoka-Frog.png?raw=true)    
+
 Moyu Black (Everglide Dark Jade)
 ![Everglide Dark Jade](https://github.com/bluepylons/Open-Switch-Curve-Meter/blob/main/Force%20curves/April-20-21-calibration/Moyu-Black%20(Everglide%20Dark%20Jade).png?raw=true)        
 *Note - these measured significantly differently than advertised on Drop, with significantly less travel (3.2mm vs 4mm advertised)
