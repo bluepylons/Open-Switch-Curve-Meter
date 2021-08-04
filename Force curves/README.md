@@ -22,6 +22,9 @@ Durock (JWK) Medium Tactile:
 Durock (JWK) Sunflower (POM T1):
 ![POM T1](https://github.com/bluepylons/Open-Switch-Curve-Meter/blob/main/Force%20curves/Okay-I'm-Just-Going-to-Calibrate-Every-Day-Now/Durock-Sunflower-POM-T1.png?raw=true)
 
+Durock (JWK) T1 Dark Amber:
+![POM T1](https://github.com/bluepylons/Open-Switch-Curve-Meter/blob/main/Force%20curves/Okay-I'm-Just-Going-to-Calibrate-Every-Day-Now/Durock-T1-Dark-Amber.png?raw=true)
+
 Gateron Aliaz:                        
 ![Gateron Aliaz](https://github.com/bluepylons/Open-Switch-Curve-Meter/blob/main/Force%20curves/April-20-21-calibration/Gateron-Aliaz.png?raw=true)
 
