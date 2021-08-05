@@ -8,7 +8,7 @@ This was designed specifically for MX switches to simplify the design and make e
 
 This project is licensed under the CERN OHL-S (strongly reciprocal) license for the hardware designs and the software. This is a share-alike license, and if you modify the project files you are required to also open-source your modifications. 
 
-The force curves themselves - the .ODS spreadsheets and the .PNG images of the graphs in the Force Curves folder - are licensed under CC-BY. 
+The force curves themselves - the .ODS spreadsheets and the .PNG images of the graphs in the Force Curves folder - are licensed under Creative Commons CC-BY 4.0. 
 
 # The key parts:
 * A linear stage. I designed around [this inexpensive $55 linear stage off Amazon](https://www.amazon.com/Sliding-Precision-Stepper-T-Shaped-Electric/dp/B07QBCG9YC/ref=sr_1_5?dchild=1&keywords=50mm%2Blinear%2Bstage&qid=1615263982&sr=8-5&th=1). You can find what appear to be identical units [on Aliexpress](https://www.aliexpress.com/item/4001272086575.html?spm=a2g0o.productlist.0.0.61906e9d3wWNyG&algo_pvid=04df7b52-bc18-4d1c-b806-9cd889c3acae&algo_expid=04df7b52-bc18-4d1c-b806-9cd889c3acae-12&btsid=0bb0623916170292735655874e869e&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_) and elsewhere for less (if you get them from Aliexpress, make sure you buy the model with 1mm pitch (lead) on the leadscrew). 
@@ -43,7 +43,6 @@ Calibration.xlsx (in the root directory) is an Excel spreadsheet I use to calibr
 # To do list
 
 * Hardware
-	* Add the hotswap socket and wire it up so I can measure the actuation point (I forgot to order one). I'm using some female crimps and some wires right now, which works ok, so I haven't been in a hurry to do this.
 	* Design a 3D-printed case for the PCB (eventually....)
 	* The HX711 load-cell amplifier occasionally drops out for a step or two, resulting in a -207gf reading, or "HX711 is not available" if I'm running the calibration script. This happens on occasion on mine (roughly once every 10 measurements), but I've talked to someone else using the HX711 module and they said it never happens to them. If the error occurs during a measurement I will generally re-do the measurement cycle, so it is a nuisance, but not a high priority one.
 
@@ -62,7 +61,7 @@ Calibration.xlsx (in the root directory) is an Excel spreadsheet I use to calibr
 		* There's something slowly in the works with various other people that currently possess force curve meters, but it will be some time before it will be up
 		* We'd want something more interactive such as Plotly (which no longer takes new uploads), and something that can allow for easy comparisons between switches (e.g. overlaying graphs)
 	* Improve the analog stage for reading the load cell, which would enable much faster measurements 
-		* The load-cell is currently read with an Avia HX711 chip, which incorporates an amplifier and a 24-bit ADC, and reads the sensitive low-level analog signal from the load cell and converts it into a digital reading for the Arduino (voltage changes on a load cell is on the order of single millivolts, and often fractions thereof). However, the HX711 is slow (~10Hz sampling rate), which leads to a fairly slow measurement cycle if you want good resolution - with 0.005mm steps as I measure right now, it takes about 3 minutes to measure the downstroke and upstroke of a 4mm travel switch, as the HX711 limits me to 10 measurements (and therefore 10 steps per second). The measurement can be done much faster if the analog stage was faster. I'm thinking of building a dedicated analog amplifier stage (using a nice op-amp circuit or other amplifier IC), and reading the analog signal using the ADC on a nice microcontroller such as a Teensy 3.2 (which has a 16-bit ADC that can sample above 100KHz). This would allow for measurement times to go down to a couple of seconds, and would save me a fair amount of time. 
+		* The load-cell is currently read with an Avia HX711 chip, which incorporates an amplifier and a 24-bit ADC, and reads the sensitive low-level analog signal from the load cell and converts it into a digital reading for the Arduino (voltage changes on a load cell is on the order of single millivolts, and often fractions thereof). However, the HX711 is slow (~10Hz sampling rate), which leads to a fairly slow measurement cycle if you want good resolution - with 0.005mm steps as I measure right now, it takes about 3 minutes to measure the downstroke and upstroke of a 4mm travel switch, as the HX711 limits me to 10 measurements per second (and therefore 10 steps per second). The measurement can be done much faster if the analog stage was faster. I'm thinking of building a dedicated analog amplifier stage (using a nice op-amp circuit or other amplifier IC), and reading the analog signal using the ADC on a nice microcontroller such as a Teensy 3.2 (which has a 16-bit ADC that can sample above 100KHz). This would allow for measurement times to go down to a couple of seconds, and would save me a fair amount of time. 
 		* Faster measurements could also impact the actual measurements - HaaTa pointed out that measurement speed likely results in slightly different curves due to differences between static and kinetic friction, and that slow or step-wise force-curve measurements (as how I am doing them with this current force curve meter) means that static friction plays more of a role. Considering that most people press switches fairly quickly when typing, and no one takes 90 seconds to press a switch when down they type, a fast measurement would produce a force curve that better reflects how a switch behaves in actual use. 
 	* Some way to correct for temperature-induced drift on the load cell that isn't just calibrating frequently 
 		* I'm fairly annoyed by how much the load cell readings drift with temperature (simply opening a window often forces me to recalibrate), and I am considering adding additional load cell modules solely to do temperature correction (you can cancel out the temperature-dependent terms in the load cell equation if you use multiple identical load cells)/strain gauges, or doing temperature measurements and using a look up table to apply corrections or something. 
@@ -85,11 +84,12 @@ Calibration.xlsx (in the root directory) is an Excel spreadsheet I use to calibr
 	* Aiwanei 
 	* ChromePcok
 	* Deadeye 
+	* Rebult Keyboards
 	
 # Links to other people with force curve meter designs and data:
 
-* Ruddy, who's affiliated with [GeekBoards.ru](https://geekboards.ru/), independently developed a force curve meter and open-sourced his design on Github [here](https://github.com/geekboards/switch-force-tester). His measurements are [here](https://github.com/geekboards/switch-force-tester/tree/main/python-app/results)
+* Ruddy, who's affiliated with [GeekBoards.ru](https://geekboards.ru/), independently developed a similar force curve meter and open-sourced his design on Github [here](https://github.com/geekboards/switch-force-tester). His measurements are [here](https://github.com/geekboards/switch-force-tester/tree/main/python-app/results)
 
 * HaaTa, who founded [Input Club](https://input.club/), and well known for his force curve measurements. His design is on Github [here](https://github.com/kiibohd/force) and described on Deskthority [here](https://deskthority.net/viewtopic.php?f=62&start=&t=15133), and results are on Plotly [here](https://chart-studio.plotly.com/~haata#/)
 
-* Nebulant and ManOfInterests also possess force curve meters, though I am not aware of any centralized location they publish their measurements, though you can find their graphs on Instagram, across various Discord servers, and on Keebtalk. 
+* Nebulant and ManOfInterests also possess force curve meters, though I am not aware of any centralized location they publish their measurements. You can find their graphs on their Instagrams, across various Discord servers, Twitter, and on Keebtalk. 
