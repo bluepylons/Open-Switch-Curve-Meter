@@ -22,6 +22,9 @@ Durock (JWK) Medium Tactile:
 Durock (JWK) Sunflower (POM T1):
 ![POM T1](https://github.com/bluepylons/Open-Switch-Curve-Meter/blob/main/Force%20curves/Okay-I'm-Just-Going-to-Calibrate-Every-Day-Now/Durock-Sunflower-POM-T1.png?raw=true)
 
+Durock (JWK) T1:
+![T1](https://github.com/bluepylons/Open-Switch-Curve-Meter/blob/main/Force%20curves/Okay-I'm-Just-Going-to-Calibrate-Every-Day-Now/Durock-T1.png?raw=true)
+
 Durock (JWK) T1 Dark Amber:
 ![POM T1](https://github.com/bluepylons/Open-Switch-Curve-Meter/blob/main/Force%20curves/Okay-I'm-Just-Going-to-Calibrate-Every-Day-Now/Durock-T1-Dark-Amber.png?raw=true)
 
@@ -180,6 +183,9 @@ Durock (JWK) T1 stem in Durock (JWK) Medium Tactile housing:
 
 Durock (JWK) T1 stem in Kailh Pro Purple housing:
 ![Durock (JWK) T1 stem in Kailh Pro Purple housing](https://github.com/bluepylons/Open-Switch-Curve-Meter/blob/main/Force%20curves/April-10-21-calibration/Durock-T1-stem-in-Kailh-Purple-housing.png?raw=true)
+
+Durock (JWK) T1 stem and t op in Rebult Harimau bottom housing:
+![T1 stem in Harimau](https://github.com/bluepylons/Open-Switch-Curve-Meter/blob/main/Force%20curves/Okay-I'm-Just-Going-to-Calibrate-Every-Day-Now/Durock-T1-stem-in-Harimau-housing.png?raw=true)
 
 Feker Holy Panda stem (Halo clone) in Cherry MX Blue housing - "Holy Chickie" 
 ![Holy Chickie](https://github.com/bluepylons/Open-Switch-Curve-Meter/blob/main/Force%20curves/April-26-21-calibration/Feker-Halo-Stem-In-MX-Blue.png?raw=true)
