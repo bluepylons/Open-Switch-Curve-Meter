@@ -158,7 +158,7 @@ TTC Gold Pink:
 ![TTC Gold Pink](https://github.com/bluepylons/Open-Switch-Curve-Meter/blob/main/Force%20curves/April-26-21-calibration/TTC-Gold-Pink.png?raw=true)
 
 Velocifire x KK Lightwave V2:
-![KK Lightwave V2](https://github.com/bluepylons/Open-Switch-Curve-Meter/blob/main/Force%20curves/Okay-I'm-Just-Going-to-Calibrate-Every-Day-Now/Velocifire-KK-Lightwave-V2.png?raw=true)
+![KK Lightwave V2](https://github.com/bluepylons/Open-Switch-Curve-Meter/blob/main/Force%20curves/Okay-I'm-Just-Going-to-Calibrate-Every-Day-Now/Velocifire-KK-Lightwave-V2.png?raw=true)         
 *(I initially thought my sample had a bent leaf as these actuate much earlier than at the 2.0mm advertised, but there are [other reports](https://www.youtube.com/watch?v=oTu_R-ibhw4) of these switches actuating much earlier than specified.*
 
 Zeal x Gateron Zealio V2 65g:
