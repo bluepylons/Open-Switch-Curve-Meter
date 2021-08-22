@@ -2,6 +2,8 @@ Here are the force curves I have so far. This page is frequently updated. The fo
 
 If you don't know how to read a force curve, [ThereminGoat has a good intro article](https://www.theremingoat.com/blog/a-beginners-guide-to-force-curves). 
 
+I am planning a reorganization of this page soon, as it is getting quite now. Until then - Ctrl-F is probably the best way to navigate this.
+
 # Stock Switches
 
 AEBoards Naevy R1.5 (missing contact):
@@ -18,6 +20,9 @@ Durock (JWK) Koala (T1) 67gf:
 
 Durock (JWK) Medium Tactile:
 ![Durock Medium Tactile](https://github.com/bluepylons/Open-Switch-Curve-Meter/blob/main/Force%20curves/April-4-21-calibration/Durock-Medium-Tactile.png?raw=true)
+
+Durock (JWK) Shrimp (Silent T1):
+![Durock Shrimp](https://github.com/bluepylons/Open-Switch-Curve-Meter/blob/main/Force%20curves/Okay-I'm-Just-Going-to-Calibrate-Every-Day-Now/Durock-Shrimp.png?raw=true)
 
 Durock (JWK) Sunflower (POM T1):
 ![POM T1](https://github.com/bluepylons/Open-Switch-Curve-Meter/blob/main/Force%20curves/Okay-I'm-Just-Going-to-Calibrate-Every-Day-Now/Durock-Sunflower-POM-T1.png?raw=true)
@@ -42,6 +47,12 @@ Gateron Kangaroo:
 
 Gateron Limbo:
 ![Gateron Limbo](https://github.com/bluepylons/Open-Switch-Curve-Meter/blob/main/Force%20curves/Okay-I'm-Just-Going-to-Calibrate-Every-Day-Now/Gateron-Limbo.png?raw=true)
+
+Gateron Silver Blizzard:
+![Gateron Silver Blizzard](https://github.com/bluepylons/Open-Switch-Curve-Meter/blob/main/Force%20curves/Okay-I'm-Just-Going-to-Calibrate-Every-Day-Now/Gateron-Silver-Blizzard.png?raw=true)
+
+Gateron Slate:
+![Gateron Silver Blizzard](https://github.com/bluepylons/Open-Switch-Curve-Meter/blob/main/Force%20curves/Okay-I'm-Just-Going-to-Calibrate-Every-Day-Now/Gateron-Slate.png?raw=true)
 
 Gazzew x Outemu Boba U4 68gf:
 ![Gazzew Boba U4 68g](https://github.com/bluepylons/Open-Switch-Curve-Meter/blob/main/Force%20curves/Okay-I'm-Just-Going-to-Calibrate-Every-Day-Now/Gazzew-Boba-U4-68g-remeasured.png?raw=true)
