@@ -12,8 +12,8 @@ Adafruit_NeoPixel LED = Adafruit_NeoPixel(N_LEDs, RGB_pin);
 //Load cell + amplifier - using Avia HX711
 #define Data_pin 3
 #define SCK_pin 2
-float Units_per_gram = 3179.013; //measured from calibration step
-float Zero = 45.024; //measured no load weight, in gf
+float Units_per_gram = 3174.931; //measured from calibration step
+float Zero = 45.166; //measured no load weight, in gf
 
 long Raw_reading;
 float Reading_g;
@@ -112,6 +112,11 @@ void loop() {
     if(Load_cell.is_ready()){
         Raw_reading = Load_cell.read();
         Reading_g = (((float(Raw_reading))/Units_per_gram))-Zero;
+        if(Reading_g<-30.0) { //if HX711 error - read the load cell again
+          delayMicroseconds(300);
+                  Raw_reading = Load_cell.read();
+                  Reading_g = (((float(Raw_reading))/Units_per_gram))-Zero;
+        }
     }
 
     //check if load cell limit reached, initiates reverse otherwise
