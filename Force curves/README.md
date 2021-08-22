@@ -156,8 +156,17 @@ Tecsee Blue Velvet Tactile:
 Tecsee Kingfisher:
 ![Tecsee Kingfisher](https://github.com/bluepylons/Open-Switch-Curve-Meter/blob/main/Force%20curves/April-20-21-calibration/Tecsee-Kingfisher.png?raw=true)
 
+Tecsee Lychee:
+![Tecsee Lychee](https://github.com/bluepylons/Open-Switch-Curve-Meter/blob/main/Force%20curves/Okay-I'm-Just-Going-to-Calibrate-Every-Day-Now/Tecsee-Lychee.png?raw=true)
+
 Tecsee Porcelain Blue 53gf:
 ![Tecsee Porcelain Blue](https://github.com/bluepylons/Open-Switch-Curve-Meter/blob/main/Force%20curves/Okay-I'm-Just-Going-to-Calibrate-Every-Day-Now/Tecsee-Porcelain-Blue-53g.png?raw=true)
+
+Tecsee Ruby V1:
+![Tecsee Ruby V1](https://github.com/bluepylons/Open-Switch-Curve-Meter/blob/main/Force%20curves/Okay-I'm-Just-Going-to-Calibrate-Every-Day-Now/Tecsee-Ruby-V1.png?raw=true)
+
+Tecsee Sapphire V1:
+![Tecsee Sapphire v1](https://github.com/bluepylons/Open-Switch-Curve-Meter/blob/main/Force%20curves/Okay-I'm-Just-Going-to-Calibrate-Every-Day-Now/Tecsee-Sapphire-V1.png?raw=true)
 
 TTC Bluish White:
 ![TTC Bluish White](https://github.com/bluepylons/Open-Switch-Curve-Meter/blob/main/Force%20curves/April-20-21-calibration/TTC-Bluish-White.png?raw=true)
@@ -167,6 +176,12 @@ TTC Gold Brown:
 
 TTC Gold Pink:
 ![TTC Gold Pink](https://github.com/bluepylons/Open-Switch-Curve-Meter/blob/main/Force%20curves/April-26-21-calibration/TTC-Gold-Pink.png?raw=true)
+
+TTC Golden Blue:
+![TTC Golden Blue](https://github.com/bluepylons/Open-Switch-Curve-Meter/blob/main/Force%20curves/Okay-I'm-Just-Going-to-Calibrate-Every-Day-Now/TTC-Golden-Blue.png?raw=true)
+
+TTC Watermelon Milkshake:
+![TTC Watermelon Milkshake](https://github.com/bluepylons/Open-Switch-Curve-Meter/blob/main/Force%20curves/Okay-I'm-Just-Going-to-Calibrate-Every-Day-Now/TTC-Watermelon-Milkshake.png?raw=true)
 
 Velocifire x KK Lightwave V2:
 ![KK Lightwave V2](https://github.com/bluepylons/Open-Switch-Curve-Meter/blob/main/Force%20curves/Okay-I'm-Just-Going-to-Calibrate-Every-Day-Now/Velocifire-KK-Lightwave-V2.png?raw=true)         
@@ -189,13 +204,16 @@ Cherry MX Clear stem in Cherry MX Blue housing:
 Cherry MX Clear stem in various housings:
 ![Cherry MX Clear stems in various housings](https://github.com/bluepylons/Open-Switch-Curve-Meter/blob/main/Force%20curves/April-4-21-calibration/MX-Clear-stems-in-various-housings.png?raw=true)
 
+Durock (JWK) Cobalt stem in Durock POM linear housing:
+![Cobalt stem in POM linear housing](https://github.com/bluepylons/Open-Switch-Curve-Meter/blob/main/Force%20curves/Okay-I'm-Just-Going-to-Calibrate-Every-Day-Now/Durock-Cobalt-Stem-In-POM-Housing.png?raw=true)
+
 Durock (JWK) T1 stem in Durock (JWK) Medium Tactile housing:
 ![Durock T1 stem in Durock Medium Tactile housing](https://github.com/bluepylons/Open-Switch-Curve-Meter/blob/main/Force%20curves/April-10-21-calibration/Durock-T1-stem-in-Durock-Medium-Tactile-housing.png?raw=true)
 
 Durock (JWK) T1 stem in Kailh Pro Purple housing:
 ![Durock (JWK) T1 stem in Kailh Pro Purple housing](https://github.com/bluepylons/Open-Switch-Curve-Meter/blob/main/Force%20curves/April-10-21-calibration/Durock-T1-stem-in-Kailh-Purple-housing.png?raw=true)
 
-Durock (JWK) T1 stem and t op in Rebult Harimau bottom housing:
+Durock (JWK) T1 stem and top in Rebult Harimau bottom housing:
 ![T1 stem in Harimau](https://github.com/bluepylons/Open-Switch-Curve-Meter/blob/main/Force%20curves/Okay-I'm-Just-Going-to-Calibrate-Every-Day-Now/Durock-T1-stem-in-Harimau-housing.png?raw=true)
 
 Feker Holy Panda stem (Halo clone) in Cherry MX Blue housing - "Holy Chickie" 
@@ -215,6 +233,9 @@ Feker Holy Panda stem (Halo clone) in Zeal Zealio Bottom Housing, Gazzew Boba to
 
 Feker Holy Panda stem (Halo clone) in Zeal Zealio Bottom Housing, Cherry top - variant of a "Zyko" I guess:
 ![Sort of Zyko](https://github.com/bluepylons/Open-Switch-Curve-Meter/blob/main/Force%20curves/April-26-21-calibration/Zyko-Variant-Feker-Halo-Stem-In-Zeal-Bottom-Cherry-Top.png?raw=true)
+
+Feker Smokey Tactile stem in Durock (JWK) T1 housing:
+![Sort of Holy T1](https://github.com/bluepylons/Open-Switch-Curve-Meter/blob/main/Force%20curves/Okay-I'm-Just-Going-to-Calibrate-Every-Day-Now/Feker-Smoky-Tactile-Stem-In-T1-Housing.png?raw=true)
 
 Gateron Blue (Jailhouse modded):
 ![Jailhouse Gat Blue](https://github.com/bluepylons/Open-Switch-Curve-Meter/blob/main/Force%20curves/April-26-21-calibration/Gateron-Blue-Jailhoused.png?raw=true)
@@ -269,6 +290,9 @@ Novelkeys x Kailh Blueberry stem in Gazzew x Outemu Boba housing, Cherry MX Grey
 Novelkeys x Kailh Blueberry stem in Outemu Sky housing, Gazzew x Outemu Boba top:
 ![Blueberry in Sky](https://github.com/bluepylons/Open-Switch-Curve-Meter/blob/main/Force%20curves/April-20-21-calibration/NK-Blueberry-Stem-in-Sky-bottom-Boba-top.png?raw=true)
 
+Novelkeys x Kailh Blueberry stem in Tecsee Lychee housing:
+![Blueberry in Lychee](https://github.com/bluepylons/Open-Switch-Curve-Meter/blob/main/Force%20curves/Okay-I'm-Just-Going-to-Calibrate-Every-Day-Now/NK-Blueberry-stem-in-Tecsee-Lychee.png?raw=true)
+
 Novelkeys x Kailh Cream stem in JWK Alpaca "V2" housing:
 ![NK Cream stem in Alpaca](https://github.com/bluepylons/Open-Switch-Curve-Meter/blob/main/Force%20curves/April-10-21-calibration/NK-Cream-stem-in-Alpaca-V2.png?raw=true)
 
@@ -284,6 +308,12 @@ Outemu Silent Sky V2.2 stem in Cherry MX Clear housing:
 Outemu Silent Sky V2.2 stem in Durock (JWK) T1 housing:
 ![Outemu Silent Sky V2.2 stem in Durock T1](https://github.com/bluepylons/Open-Switch-Curve-Meter/blob/main/Force%20curves/April-10-21-calibration/Outemu-Silent-Sky-Stem-in-T1.png?raw=true)
 
+Tecsee Blue velvet Linear stem in JWK Lavender Linear housing:
+![Blue Velvet Linear in Lavender](https://github.com/bluepylons/Open-Switch-Curve-Meter/blob/main/Force%20curves/Okay-I'm-Just-Going-to-Calibrate-Every-Day-Now/Tecsee-Blue-Velvet-Stem-In-JWK-Lavender.png?raw=true)
+
+Tecsee Blue Velvet Linear stem in HK Gaming MS1 top, Mode x JWK Signal bottom:
+![This combo name is too long but also don't name your frankenswitches  because no one wiill know what it is](https://github.com/bluepylons/Open-Switch-Curve-Meter/blob/main/Force%20curves/Okay-I'm-Just-Going-to-Calibrate-Every-Day-Now/Tecsee-Blue-Velvet-Stem-MS1-Top-Mode-Reflex-Bottom.png?raw=true)  
+
 TG3 "Copre" rubber dome over springless Gateron Yellow:
 ![Copre Gat Yellow](https://github.com/bluepylons/Open-Switch-Curve-Meter/blob/main/Force%20curves/April-20-21-calibration/TG3-dome-over-springless-Gat-Yellow.png?raw=true)
 
@@ -294,6 +324,9 @@ TG3 "Copre" rubber dome over springless Kailh Box Navy:
 ![Copre Box Navy](https://github.com/bluepylons/Open-Switch-Curve-Meter/blob/main/Force%20curves/April-20-21-calibration/TG3-dome-over-springless-Kailh-Box-Navy.png?raw=true)
 
 # Springs
+
+KTT Kang White spring:
+![KTT Kang White spring](https://github.com/bluepylons/Open-Switch-Curve-Meter/blob/main/Force%20curves/Okay-I'm-Just-Going-to-Calibrate-Every-Day-Now/Springs/KTT-Kang-White-spring.png?raw=true)
 
 New Gazzew 55gf, 65gf, and 72gf springs:
 ![Redacted progressive spring](https://github.com/bluepylons/Open-Switch-Curve-Meter/blob/main/Force%20curves/Okay-I'm-Just-Going-to-Calibrate-Every-Day-Now/Springs/Gazzew-springs-(measured-with-Alpaca-stem).png?raw=true) 
@@ -306,6 +339,9 @@ SPRiT 63.5gf Complex and Progressive Springs, compared with Gateron Yellow Sprin
 
 SPRiT 63.5gf Complex and Progressive Springs, compared with Gateron Yellow Spring, with leaf:
 ![SPRiT 63.5g Complex and Progressive Springs, compared with Gateron Yellow Spring, with leaf](https://github.com/bluepylons/Open-Switch-Curve-Meter/blob/main/Force%20curves/April-20-21-calibration/Springs/Sprit-prog-complex-investigation-with-leaf.png?raw=true)
+
+Tecsee Ruby V1 spring:
+![Tecsee Ruby V1 spring](https://github.com/bluepylons/Open-Switch-Curve-Meter/blob/main/Force%20curves/Okay-I'm-Just-Going-to-Calibrate-Every-Day-Now/Springs/Tecsee-Ruby-V1-spring.png?raw=true)
 
 Thic Thock 68gf MP, no leaf:
 ![Thic Thock 68g MP, no leaf](https://github.com/bluepylons/Open-Switch-Curve-Meter/blob/main/Force%20curves/April-20-21-calibration/Springs/ThicThock_MP_68g.png?raw=true)
