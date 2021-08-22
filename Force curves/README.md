@@ -2,7 +2,7 @@ Here are the force curves I have so far. This page is frequently updated. The fo
 
 If you don't know how to read a force curve, [ThereminGoat has a good intro article](https://www.theremingoat.com/blog/a-beginners-guide-to-force-curves). 
 
-I am planning a reorganization of this page soon, as it is getting quite now. Until then - Ctrl-F is probably the best way to navigate this.
+I am planning a reorganization of this page soon, as it is getting quite long now. Until then - Ctrl-F is probably the best way to navigate this.
 
 # Stock Switches
 
@@ -51,7 +51,7 @@ Gateron Limbo:
 Gateron Silver Blizzard:
 ![Gateron Silver Blizzard](https://github.com/bluepylons/Open-Switch-Curve-Meter/blob/main/Force%20curves/Okay-I'm-Just-Going-to-Calibrate-Every-Day-Now/Gateron-Silver-Blizzard.png?raw=true)
 
-Gateron Slate:
+Gateron Slate:                                     
 ![Gateron Silver Blizzard](https://github.com/bluepylons/Open-Switch-Curve-Meter/blob/main/Force%20curves/Okay-I'm-Just-Going-to-Calibrate-Every-Day-Now/Gateron-Slate.png?raw=true)
 
 Gazzew x Outemu Boba U4 68gf:
