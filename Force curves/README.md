@@ -117,7 +117,7 @@ Moyu.studio x JWK Black (Everglide Dark Jade):
 *Note - these measured significantly differently than advertised on Drop, with significantly less travel (3.2mm vs 4mm advertised)
 
 Moyu.studio x JWK Poseidon:
-![Moyu Queen](https://github.com/bluepylons/Open-Switch-Curve-Meter/blob/main/Force%20curves/Okay-I'm-Just-Going-to-Calibrate-Every-Day-Now/JWK-Moyu-Poseidon.png?raw=true) 
+![Moyu Queen](https://github.com/bluepylons/Open-Switch-Curve-Meter/blob/main/Force%20curves/Okay-I'm-Just-Going-to-Calibrate-Every-Day-Now/Moyu-JWK-Poseidon.png?raw=true) 
 
 Moyu.studio x JWK Queen:
 ![Moyu Queen](https://github.com/bluepylons/Open-Switch-Curve-Meter/blob/main/Force%20curves/Okay-I'm-Just-Going-to-Calibrate-Every-Day-Now/Moyu-JWK-Queen.png?raw=true) 
