@@ -15,6 +15,9 @@ Akko x KTT CS Ocean Blue:
 Alphakeys Dusk Panda:
 ![Alphakeys Dusk Panda](https://github.com/bluepylons/Open-Switch-Curve-Meter/blob/main/Force%20curves/Okay-I'm-Just-Going-to-Calibrate-Every-Day-Now/Alphakeys-Dusk-Panda-Remeasured.png?raw=true)
 
+C3 Equalz x JWK Kiwi:                             
+![Kiwi](https://github.com/bluepylons/Open-Switch-Curve-Meter/blob/main/Force%20curves/Okay-I'm-Just-Going-to-Calibrate-Every-Day-Now/C3Equalz-Kiwi.png.png?raw=true)
+
 Durock (JWK) Koala (T1) 67gf:
 ![Durock Koala](https://github.com/bluepylons/Open-Switch-Curve-Meter/blob/main/Force%20curves/April-4-21-calibration/Durock-Koala.png?raw=true)
 
@@ -86,6 +89,8 @@ JWK Pewter:
 (Proposed) JWK Twilight:
 ![JWK Twilight](https://github.com/bluepylons/Open-Switch-Curve-Meter/blob/main/Force%20curves/Okay-I'm-Just-Going-to-Calibrate-Every-Day-Now/JWK-Twilight-remeasured.png?raw=true)
 
+JWK Twilight (lubed, as sold by Moyu.studio)
+
 Kail Box Silent Brown:
 ![Box Silent Brown](https://github.com/bluepylons/Open-Switch-Curve-Meter/blob/main/Force%20curves/Okay-I'm-Just-Going-to-Calibrate-Every-Day-Now/Kailh-Box-Silent-Brown.png?raw=true)
 
@@ -107,11 +112,14 @@ KTT Strawberry:
 Momoka Frog:              
 ![Momoka Frog](https://github.com/bluepylons/Open-Switch-Curve-Meter/blob/main/Force%20curves/Okay-I'm-Just-Going-to-Calibrate-Every-Day-Now/Momoka-Frog.png?raw=true)    
 
-Moyu Studio x JWK Black (Everglide Dark Jade):
+Moyu.studio x JWK Black (Everglide Dark Jade):
 ![Everglide Dark Jade](https://github.com/bluepylons/Open-Switch-Curve-Meter/blob/main/Force%20curves/April-20-21-calibration/Moyu-Black%20(Everglide%20Dark%20Jade).png?raw=true)        
 *Note - these measured significantly differently than advertised on Drop, with significantly less travel (3.2mm vs 4mm advertised)
 
-Moyu Studio x JWK Queen:
+Moyu.studio x JWK Poseidon:
+![Moyu Queen](https://github.com/bluepylons/Open-Switch-Curve-Meter/blob/main/Force%20curves/Okay-I'm-Just-Going-to-Calibrate-Every-Day-Now/JWK-Moyu-Poseidon.png?raw=true) 
+
+Moyu.studio x JWK Queen:
 ![Moyu Queen](https://github.com/bluepylons/Open-Switch-Curve-Meter/blob/main/Force%20curves/Okay-I'm-Just-Going-to-Calibrate-Every-Day-Now/Moyu-JWK-Queen.png?raw=true) 
 
 Novelkeys x Kailh Blueberry:
