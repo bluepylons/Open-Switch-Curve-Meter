@@ -1,0 +1,19 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1,100nF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,41.29,-22.02,180,bottom
+C2,100nF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,34.05,-8.3,180,bottom
+C3,10uF,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,32.3,-15.1,90,bottom
+C4,10uF,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,34.1,-5.8,180,bottom
+C5,100nF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,46.45,-11.35,-90,bottom
+C6,100nF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,50.55,-11.45,90,bottom
+C7,10uF,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,33.8,-23.7,90,bottom
+C8,100nF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,36.04,-17.5,90,bottom
+D1,D_TVS,D_SMB_Handsoldering,9.27,-24.61,0,bottom
+L1,3.3uH,L_0805_2012Metric_Pad1.15x1.40mm_HandSolder,37,-10.4,180,bottom
+Q1,Q_PNP_BEC,SOT-23_Handsoldering,37.9,-13.55,180,bottom
+R3,20k,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,43.15,-12.15,180,bottom
+R4,8.2k,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,43.15,-10.15,0,bottom
+R5,100,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,48.55,-11.45,-90,bottom
+R6,100,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,52.55,-11.45,-90,bottom
+R8,10k,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,39.51,-17.55,90,bottom
+U1,HX711,SOP-16_3.9x9.9mm_P1.27mm,45.95,-17.15,-90,bottom
+U2,SRV05-4,SOT-23-6,18.2,-25.1,-90,bottom

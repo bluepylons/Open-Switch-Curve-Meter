@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "Open-Switch-Tester-parts")(type "KiCad")(uri "${MAINDIRECTORY}/PCB/Other libraries/Open-Switch-Tester-parts.kicad_sym")(options "")(descr ""))
+  (lib (name "Adafruit-Feather-RP2040")(type "KiCad")(uri "${MAINDIRECTORY}/PCB/Other libraries/Adafruit-Feather-RP2040/Adafruit-Feather-RP2040.kicad_sym")(options "")(descr ""))
+  (lib (name "StepStick")(type "KiCad")(uri "${MAINDIRECTORY}/PCB/Other libraries/StepStick.kicad_sym")(options "")(descr ""))
+)

@@ -1,0 +1,18 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AP63203WU-7
+D Diodes Inc synchronous buck controller, 3.8V-32Vin, 3.3V out.
+F https://www.diodes.com/assets/Datasheets/AP63200-AP63201-AP63203-AP63205.pdf
+$ENDCMP
+#
+$CMP Rotary_Encoder_Switch_Chassis
+D Rotary encoder, dual channel, incremental quadrate outputs, with switch
+K rotary switch encoder switch push button
+F ~
+$ENDCMP
+#
+$CMP SK6812MINI-E
+F https://ecksteinimg.de/Datasheet/LED/LED0011/SK6812MINI-E_REV02_EN.pdf
+$ENDCMP
+#
+#End Doc Library

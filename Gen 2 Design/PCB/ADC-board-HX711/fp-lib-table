@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "AcheronMountingHoles")(type "KiCad")(uri "${MAINDIRECTORY}/PCB/AlexandriaLibrary/footprints/acheron_MountingHoles.pretty")(options "")(descr ""))
+  (lib (name "Open-Switch-Tester-parts")(type "KiCad")(uri "${BOSTONLIB}/Open-Switch-Curve-Meter/Gen 2 early design work/PCB/Other libraries/Open-Switch-Tester-parts.pretty")(options "")(descr ""))
+)

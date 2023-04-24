@@ -1,0 +1,8 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+"HT1","MountingHole","ToolingHole_1.152mm_(for_JLCPCB_SMT)",5.000000,-9.000000,0.000000,top
+"HT2","MountingHole","ToolingHole_1.152mm_(for_JLCPCB_SMT)",87.000000,-9.000000,180.000000,top
+"HT3","MountingHole","ToolingHole_1.152mm_(for_JLCPCB_SMT)",5.000000,-28.000000,0.000000,top
+"HT4","MountingHole","ToolingHole_1.152mm_(for_JLCPCB_SMT)",87.000000,-28.000000,0.000000,top
+"J1","Conn_02x05_Odd_Even","2x05-P2.54mm-Shrouded-Keyed-Header",22.000000,-32.000000,0.000000,top
+"J2","Conn_01x04","TerminalBlock_Phoenix_MKDS-1,5-4_1x04_P5.00mm_Horizontal",53.500000,-5.695000,180.000000,top
+"J3","Conn_01x02","TerminalBlock_Phoenix_MKDS-1,5-2_1x02_P5.00mm_Horizontal",74.000000,-34.000000,0.000000,top
