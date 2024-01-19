@@ -8,6 +8,8 @@ PCB prototypes have arrived and are currently being assembled.
 
 # ORDERING GUIDE
 
+INCOMPLETE, WORK IN PROGRESS
+
 # Mechanicals
 
 ## Laser cut metal parts
@@ -32,7 +34,7 @@ For Sendcutsend, deburring is recommended, though it still tends to leave a shar
 
 ## T-slotted extrusions and hardware 
 
-Misumi HFS5 , tapped M5 at each end.
+Misumi HFS5, tapped M5 at each end.
 HNTAP5-5 
 
 Other brands of 20mm 80/20-style T-slotted extrusions likely work, though you may need to tap the holes to M5 yourself. 
