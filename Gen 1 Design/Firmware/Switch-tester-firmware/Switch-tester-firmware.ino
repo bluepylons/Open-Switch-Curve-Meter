@@ -118,8 +118,8 @@ void loop() {
     // Step 1) Read the load cell 
     if (Load_cell.is_ready()) { //If the load cell is ready - read the load cell 
       Raw_reading = Load_cell.read();
-      Reading_g = (((float(Raw_reading)) / Units_per_gram)) - Zero_intercept ;
-      while (Reading_g < -30.0) { //This is to throw out HX711 errors, which frequently manifest as extremely low negative readings 
+      Reading_g = (((float(Raw_reading)) / Units_per_gram)) - Zero_intercept ; //convert to gf
+      while (Reading_g < -30.0) { //This is to throw out HX711 errors, which frequently manifest as extremely negative readings 
         delayMicroseconds(Delay * 5); //wait a bit so the error (hopefully) clears
         Raw_reading = Load_cell.read();
         Reading_g = (((float(Raw_reading)) / Units_per_gram)) - Zero_intercept ;
@@ -128,8 +128,8 @@ void loop() {
 
     else { //if the load cell is not ready - wait a bit
       delay(Delay * 5); //wait a bit so the error clears
-      while (Reading_g < -30.0) { //This is to throw out HX711 errors, which frequently manifest as extremely low negative readings 
-        delayMicroseconds(Delay * 5); //wait a bit so the error (hopefully) clears
+      while (Reading_g < -30.0) { //This is to throw out HX711 errors, which frequently manifest as extremely negative readings 
+        delayMicroseconds(Delay * 5);  //wait a bit so the HX711 error (hopefully) clears
         Raw_reading = Load_cell.read();
         Reading_g = (((float(Raw_reading)) / Units_per_gram)) - Zero_intercept ;
       }
@@ -138,14 +138,14 @@ void loop() {
     // Step 2) check if load cell reversed limit (as set by the variable Reverse_limit) is reached. If it has been, initiate the reverse cycle 
     if (Reading_g > Reverse_limit) {
       Reverse = true;
-      LED.setPixelColor(0, 0, 255, 0);
+      LED.setPixelColor(0, 0, 255, 0); //change indicator LED color for the reverse cycle
       LED.show();
     }
 
     // Step 3) Check if the switch is actuated 
     Actuated = !digitalRead(Switch_pin); 
 
-    // Step 4a) - If Reverse_limit has not been reached, advance towards the load cell: 
+    // Step 4a) - If Reverse_limit has not been reached, move switch towards the load cell: 
     if (Reverse == false) {
       //Steo 4a1) Advance towards the load cell (this is 8 microsteps, or one whole step)
       Drive_stepper(Steps_per_loop, 0);
@@ -162,7 +162,7 @@ void loop() {
       Position = Position + Microns_per_loop; 
     }
 
-    // Step 4b) - If Reverse_limit has been reached, advance away from the load cell back to the start position 
+    // Step 4b) - If Reverse_limit has been reached, move switch away from the load cell back to the start position 
     if (Reverse & (Position > 0) ) {
       //Step 4b1) - Advance away from the load cell (this is 8 microsteps, or one whole step)
       Drive_stepper(Steps_per_loop, 1); 
