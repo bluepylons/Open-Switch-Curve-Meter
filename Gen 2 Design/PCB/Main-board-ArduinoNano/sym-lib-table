@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Open-Switch-Tester-parts")(type "KiCad")(uri "C:/Users/James/Documents/GitHub/Open-Switch-Curve-Meter/Gen 2 Design/PCB/Other libraries/Open-Switch-Tester-parts.kicad_sym")(options "")(descr ""))
+  (lib (name "Adafruit-Feather-RP2040")(type "KiCad")(uri "C:/Users/James/Documents/GitHub/Open-Switch-Curve-Meter/Gen 2 Design/PCB/Other libraries/Adafruit-Feather-RP2040/Adafruit-Feather-RP2040.kicad_sym")(options "")(descr ""))
+  (lib (name "StepStick")(type "KiCad")(uri "C:/Users/James/Documents/GitHub/Open-Switch-Curve-Meter/Gen 2 Design/PCB/Other libraries/StepStick.kicad_sym")(options "")(descr ""))
+)
