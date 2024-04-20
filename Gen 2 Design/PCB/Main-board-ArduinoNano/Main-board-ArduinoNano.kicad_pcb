@@ -107,7 +107,7 @@
 			(dxfusepcbnewfont yes)
 			(psnegative no)
 			(psa4output no)
-			(plotreference no)
+			(plotreference yes)
 			(plotvalue no)
 			(plotfptext yes)
 			(plotinvisibletext no)

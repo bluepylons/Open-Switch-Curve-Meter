@@ -493,7 +493,7 @@
       "plot": "Manufacturing files/Gerbers/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "../../CAD/Main-PCB-1-2-22.step",
+      "step": "../../CAD/Main-PCB-ArduinoNano.step",
       "svg": "",
       "vrml": ""
     },
