@@ -2,7 +2,7 @@
 ![Prototype vertical](https://github.com/bluepylons/Open-Switch-Curve-Meter/blob/main/Pics/Prototype-1-vertical.jpg?raw=true)
 
 # About 
-This is an open-source keyboard switch force-curve tester for MX-style switches. Gen 1 is currently operational, and force curves of various switches I've measure are in the Force curve measurements\ directory. Gen 2, which [has a Geekhack IC for a potential future group buy](https://geekhack.org/index.php?topic=115453.0) and is meant to be more user friendly, is currently being prototyped.
+This is an open-source keyboard switch force-curve tester for MX-style switches. Gen 1 is currently operational, and force curves of various switches I've measure are in the Force curve measurements\ directory. Gen 2 has its physical design done, though needs to be built out (I was planning this for a while, but life's gotten in the way); I haven't had a chance to work on it in some time and is unfortunately not a priority for me  right now.
 
 This was designed specifically for MX switches to simplify the design and make everything cheaper and more compact, and since most of the switches I am curious about (as well as almost all new switches released today) use the MX form factor. In theory it could be adapted to test say, Alps or other discrete switches (it would need a different plate and switch holder). This is not as versatile as force-curve testers built around a test stand (like [the one Haata built](https://deskthority.net/viewtopic.php?t=15133)) and can't test arbitrary keyboards like that one, but it's much cheaper to build (I spent about $200 building this, and in theory this is buildable for ~$100 if one foregoes the custom PCB and order the parts from China)
 
@@ -95,4 +95,6 @@ On Gen 1, The firmware initiates a test cycle when you press the left button (li
 
 * Nebulant and ManOfInterests also possess force curve meters, though I am not aware of any centralized location they publish their measurements. You can find their graphs on their Instagrams, across various Discord servers, Twitter, and on Keebtalk. 
 
-* Romly built a force curve meter oven in Japan. [Details here](https://romly.com/blog/c99_jikunohakari/).
+* Romly built a force curve meter over in Japan. [Details here](https://romly.com/blog/c99_jikunohakari/).
+
+* Theremingoat has a force curve meter and now has a [massive respository](https://github.com/ThereminGoat/force-curves).
