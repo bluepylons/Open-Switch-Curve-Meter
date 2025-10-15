@@ -82,6 +82,9 @@ Cherry MX Blue RGB:
 Cherry MX Brown Hyperglide:
 ![MX Brown Hyperglide](https://github.com/bluepylons/Open-Switch-Curve-Meter/blob/main/Force%20curve%20measurements/Cherry-MX-Hyperglide-Brown.png?raw=true)
 
+Cherry MX Purple RGB:
+![Cherry MX Purple RGB](https://github.com/bluepylons/Open-Switch-Curve-Meter/blob/main/Force%20curve%20measurements/Cherry-MX-Purple-RGB.png?raw=true)
+
 Cherry MX Red:
 ![Cherry MX Red](https://github.com/bluepylons/Open-Switch-Curve-Meter/blob/main/Force%20curve%20measurements/Cherry-MX-Red.png?raw=true)
 
