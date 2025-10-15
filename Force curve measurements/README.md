@@ -156,6 +156,9 @@ Everglide Bamboo:
 Everglide Dark Jade (Moyu Black):
 ![Everglide Dark Jade](https://github.com/bluepylons/Open-Switch-Curve-Meter/blob/main/Force%20curve%20measurements/Everglide-Dark-Jade.png?raw=true)
 
+Futaba MA-41 (clicky, Cherry MX mount):
+![Futaba MA-41](https://github.com/bluepylons/Open-Switch-Curve-Meter/blob/main/Force%20curve%20measurements/Futaba-MA-41-Cherry-mount.png?raw=true)
+
 Gateron Aliaz:                        
 ![Gateron Aliaz](https://github.com/bluepylons/Open-Switch-Curve-Meter/blob/main/Force%20curve%20measurements/Gateron-Aliaz.png?raw=true)
 
