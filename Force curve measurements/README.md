@@ -202,6 +202,9 @@ Gateron Kangaroo:
 Gateron Limbo:                    
 ![Gateron Limbo](https://github.com/bluepylons/Open-Switch-Curve-Meter/blob/main/Force%20curve%20measurements/Gateron-Limbo.png?raw=true)
 
+Gateron Melodic:                    
+![Gateron Melodic](https://github.com/bluepylons/Open-Switch-Curve-Meter/blob/main/Force%20curve%20measurements/Gateron-Melodic.png?raw=true)
+
 Gateron Milky Black:
 ![Gateron Milky Black](https://github.com/bluepylons/Open-Switch-Curve-Meter/blob/main/Force%20curve%20measurements/Gateron-Milky-Black.png?raw=true)
 
