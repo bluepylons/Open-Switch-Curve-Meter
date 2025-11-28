@@ -1,4 +1,4 @@
-![Gen 2 Prototype](https://github.com/bluepylons/Open-Switch-Curve-Meter/blob/main/Pics/Gen-2.JPG?raw=true
+![Gen 2 Prototype](https://github.com/bluepylons/Open-Switch-Curve-Meter/blob/main/Pics/Gen-2.JPG?raw=true)
 
 # About 
 This is an open-source, low-cost measurement device for generating force curve measurements for MX-style switches. There are two versions - a much older Gen 1 and a newer Gen 2 design.  Force curves of various switches I've measured are in the Force curve measurements\ directory. Detailed documentation for Gen 2 is in progress and will be available [here](https://github.com/bluepylons/Open-Switch-Curve-Meter/blob/main/Gen%202%20Design/README.md).
