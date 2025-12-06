@@ -2226,7 +2226,7 @@
 		(descr "Through hole straight socket strip, 1x01, 2.54mm pitch, single row (from Kicad 4.0.7), script generated")
 		(tags "Through hole socket strip THT 1x01 2.54mm single row")
 		(property "Reference" "J5"
-			(at 0 -2.77 0)
+			(at 2.76 1 0)
 			(layer "F.SilkS")
 			(uuid "fea161ee-55cd-4fdd-ba03-b4cbf1c1a0d4")
 			(effects
@@ -7090,7 +7090,7 @@
 		(descr "Through hole straight socket strip, 1x07, 2.54mm pitch, single row (from Kicad 4.0.7), script generated")
 		(tags "Through hole socket strip THT 1x07 2.54mm single row")
 		(property "Reference" "J4"
-			(at 0 -2.77 90)
+			(at -2.3 11.74 180)
 			(layer "F.SilkS")
 			(uuid "ae71ca19-1b3c-4901-9136-2a62d836f1c0")
 			(effects
@@ -10290,8 +10290,8 @@
 			)
 		)
 	)
-	(gr_text "12V 2A"
-		(at 136.3 19.05 0)
+	(gr_text "12V 2A\nCenter+"
+		(at 130.6 20.3 0)
 		(layer "F.SilkS")
 		(uuid "6e20a929-6835-4dcc-b4d9-87133acdf6b5")
 		(effects
@@ -10335,7 +10335,7 @@
 		)
 	)
 	(gr_text "Arduino Nano"
-		(at 118.7 27.1 0)
+		(at 120.1 42.2 0)
 		(layer "F.SilkS")
 		(uuid "a6baddc4-8ba7-4eb5-808a-c5b130fc3689")
 		(effects
@@ -10438,7 +10438,7 @@
 			(justify mirror)
 		)
 	)
-	(gr_text "Force curve meter \nMain board (Arduino Nano)\nGen 2 Rev 1\nNovember 27, 2025\nDesigned by Pylon"
+	(gr_text "Force curve meter \nMain board (Arduino Nano)\nGen 2 Rev 1\nDecember 6, 2025\nDesigned by Pylon"
 		(at 63.75 7.2 0)
 		(layer "B.SilkS")
 		(uuid "1cbbfee4-06dd-44ee-af91-d336edf2459c")
