@@ -7,8 +7,8 @@
    The load cell amplifier output is linear, and follow the form y = mx+b, with y being the force reading in gram-force, m being 1/Units_per_gram (so grams-per-unit),  x being the raw ADC reading, and b being the the variable Zero_intercept
    These are found by doing a 2-point calibration - one with no load on the load cell, and the other with a known load on the load cell
 */
-float Units_per_gram = 3093.16;
-float Zero_intercept  = -28.268;
+float Units_per_gram = 3100.852;
+float Zero_intercept  = -28.263;
 
 /*This is the force reading at which the switch curve tester reverses, in gf. You may wish to increase this for switches with very high bottom out weights, but be aware of what your load cell can physically handle! The default TAL221 load cell used is only good for 500gf (with an absolute maximum of 750gf - the load cell will be permanently damaged if you exceed this)*/
 float Reverse_limit = 110.0; //in gram-force
