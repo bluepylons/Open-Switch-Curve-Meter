@@ -1,6 +1,10 @@
+# Work In Progress
+
 # Gen 2 
 
-These work in progress files for a potential GB of force curve meters ([Geekhack IC here](https://geekhack.org/index.php?topic=115453.0)). Mechanical CAD is done in [Alibre Atom3D](https://www.alibre.com/atom3d/), and the PCB files are done using KiCAD V6.
+Due to the general jankiness of Gen 1, I decided to do a much neater redesign for Gen 2 back in 2021. I initially thought about [running a group buy](https://geekhack.org/index.php?topic=115453.0), though life has gotten in the way of that. I finally had some time to pick this project back up in late 2025, and am currently documenting the Gen 2 design to the point it can be easily replicated by other people. This document is very much a work in progress, though I have built and operated Gen 2. 
+
+Mechanical CAD is done in [Alibre Atom3D](https://www.alibre.com/atom3d/), and the PCB files are done using KiCAD V9.
 
 Due to restrictions on redistrbution of 3rd-party CAD files (e.g. for the 80/20-style extrusions from Misum), those files are excuded, but can be downloaded freely from their sites. More details in the [README for those files](https://github.com/bluepylons/Open-Switch-Curve-Meter/tree/main/Gen%202%20Design/CAD/Proprietary%20CAD%20files)
 
