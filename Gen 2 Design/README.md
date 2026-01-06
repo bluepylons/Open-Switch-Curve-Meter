@@ -42,7 +42,7 @@ I use Misumi 80/20-style extrusions, though tther brands of 20mm 80/20-style T-s
 | HNTAP5-5                 | M5 nuts     | 4        |
 
 ## 3D-printed pieces
-The following parts are 3D-printed. STLs are available here.
+The following parts are 3D-printed. STLs are available [here](https://github.com/bluepylons/Open-Switch-Curve-Meter/tree/main/Gen%202%20Design/Mechanical%20files/3DP).
 
 | Part name                    | Quantity |
 | ---------------------------  | -------- |
