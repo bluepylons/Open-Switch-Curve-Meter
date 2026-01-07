@@ -93,11 +93,11 @@ The following additional through-hole parts are needed:
 
 | Reference designators | Part description            | Manufacturer | Part number     | Quantity | Notes                                               | 
 | --------------------  | --------------------------- | ------------ | --------------- | -------- | --------------------------------------------------- |
-| J                     | 10-pin shrouded connector   | CNC Tech     | 3020-10-0100-00 | 1        |                                                     | 
-| J                     | 4-pin terminal block        | Würth        | 691137710004    | 1        |                                                     |
-| J                     | 2-pin terminal block        | Würth        | 691137710002    | 1        |                                                     |
+| J1                    | 10-pin shrouded connector   | CNC Tech     | 3020-10-0100-00 | 1        |                                                     | 
+| J2                    | 4-pin terminal block        | Würth        | 691137710004    | 1        |                                                     |
+| J3                    | 2-pin terminal block        | Würth        | 691137710002    | 1        |                                                     |
 
-D2 can be left unpopulated if D1 is populated,  but Littelfuse P4KE6.8A can be used if not (if JLCPCB is out of stock, for instance)
+D2 can be left unpopulated if D1 is populated,  but Littelfuse P4KE6.8A can be used if not (if JLCPCB is out of stock of D1, for instance)
 
 
 ## Main board
