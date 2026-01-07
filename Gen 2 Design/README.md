@@ -89,17 +89,23 @@ The PCB can be ordered off JLCPCB using the manufacturing files provided here.
 
 HX711 pitfalls
 
-Additional through-hole parts 
+The following additional through-hole parts are needed:
 
-| Reference designators | Part description            | Manufacturer | Part number       | Quantity | Notes                                               | 
-| --------------------  | --------------------------- | ------------ | ----------------- | -------- | --------------------------------------------------- |
-| J                     | 10-pin shrouded connector   | CNC Tech     | 3020-10-0100-00   | 1 
+| Reference designators | Part description            | Manufacturer | Part number     | Quantity | Notes                                               | 
+| --------------------  | --------------------------- | ------------ | --------------- | -------- | --------------------------------------------------- |
+| J                     | 10-pin shrouded connector   | CNC Tech     | 3020-10-0100-00 | 1        |                                                     | 
+| J                     | 4-pin terminal block        | Würth        | 691137710004    | 1        |                                                     |
+| J                     | 2-pin terminal block        | Würth        | 691137710002    | 1        |                                                     |
+
+D2 can be left unpopulated if D1 is populated,  but Littelfuse P4KE6.8A can be used if not (if JLCPCB is out of stock, for instance)
+
+
 ## Main board
 
 The main board can be ordered as a bare PCB, which has additional through-hole parts that need to be soldered or installed on. These can be sourced from Digikey, Mouser, or your electronic parts distributor of choice.
 
 | Reference designators | Part description            | Manufacturer | Part number     | Quantity | Notes                                               | 
-| --------------------  | --------------------------- | ------------ | --------------- | -------- | --------------------------------------------------- |
+| --------------------  | --------------------------- | ------------ | --------------- | -------- | --------------------------------------------------- | 
 | A2                    | 2.54mm 15-pin female socket | Sullins      | PPPC151LFBN-RC  | 2        | You can also cut down a longer socket               |
 | A2                    | Arduino Nano or clone       | Arduino      | Nano            | 1        | Do not use the Arduino Nano Every or ESP32 versions | 
 | C1, C3                | 100uF 63V capacitor         | Nichicon     | UVY1J101MPD1TD2 | 2        | 63V rating is overkill, but I had some lying around |
@@ -113,18 +119,20 @@ The main board can be ordered as a bare PCB, which has additional through-hole p
 | U2                    | TMC2208 SilentStepStick     | Watterott    | 20170003-002    | 1        | TMC2209 also works                                  |
 | SW1-SW4               | Cherry MX-compatible switch | Any          | Your favorite   | 4        |                                                     |
 
-
-
 # Electrical parts
 
-* TAL221 load cell 
-* Adafruit Feather RP2040
-* Ribbon cable Assmann WSW H3CCH-1006G-ND
-* Connectors
+You will need the following electrical parts as well:
+
+| Part description                                             | Manufacturer | Part number     | Quantity | Notes                                                                  | 
+| ------------------------------------------------------------ | ------------ | --------------- | -------- | ---------------------------------------------------------------------- |
+| 500gf TAL221 load cell                                       | Sparkfun     | 14728           | 1        | Can also be found on Aliexpress                                        | 
+| 10-pin ribbon cable                                          | Assmann WSW  | H3CCH-1006G-ND  | 1        |                                                                        |
+| 12V 2A power supply 5.5x2.5mm barrel jack, center positivee  | EDATEC       | ED-PSU1202-US   | 1        | Easily substitued; I use the power supply for a WD external hard drive |
+| Alligator clip cable                                         | Adafruit     | 1008            | 1        | Easily substitued                                                      |
 
 # Other parts
 
-A 100g calibration weight is used to calibrate the load cell. 
+A 100g calibration weight is used to calibrate the load cell. These can easily be bought off Amazon for less than $1. 
 
 
 # OPERATING PROCEDURE
