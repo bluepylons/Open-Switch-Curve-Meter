@@ -79,20 +79,47 @@ The following other hardware are needed:
 | ----------------------------------------- | -------- | --------------------------------------------------------- |
 | 3M SJ-5003 bumpons (or equivalent)        | 4        | Available in different colors                             |
 
-
-
 # PCB 
 
-There are two PCBs: 
+There are two PCBs, the ADC board and the Main board. The ADC board has SMT components that JLCPCB can place, while the Main board is through hole. While the project was originally going to use an Adafruit Feather RP2040 for the controller, I later switched back to using an Arduino Nano clone so I could re-use the code from Gen 1. 
 
-The PCB can be ordered off JLCPCB with the attached files. 
+The PCB can be ordered off JLCPCB using the manufacturing files provided here.
+
+## ADC board
 
 HX711 pitfalls
+
+Additional through-hole parts 
+
+| Reference designators | Part description            | Manufacturer | Part number       | Quantity | Notes                                               | 
+| --------------------  | --------------------------- | ------------ | ----------------- | -------- | --------------------------------------------------- |
+| J                     | 10-pin shrouded connector   | CNC Tech     | 3020-10-0100-00   | 1 
+## Main board
+
+The main board can be ordered as a bare PCB, which has additional through-hole parts that need to be soldered or installed on. These can be sourced from Digikey, Mouser, or your electronic parts distributor of choice.
+
+| Reference designators | Part description            | Manufacturer | Part number     | Quantity | Notes                                               | 
+| --------------------  | --------------------------- | ------------ | --------------- | -------- | --------------------------------------------------- |
+| A2                    | 2.54mm 15-pin female socket | Sullins      | PPPC151LFBN-RC  | 2        | You can also cut down a longer socket               |
+| A2                    | Arduino Nano or clone       | Arduino      | Nano            | 1        | Do not use the Arduino Nano Every or ESP32 versions | 
+| C1, C3                | 100uF 63V capacitor         | Nichicon     | UVY1J101MPD1TD2 | 2        | 63V rating is overkill, but I had some lying around |
+| D1, D3-D5             | 5.8V TVS diode DO-204AL     | Littelfuse   | P4KE6.8A        | 4        |                                                     |
+| F1                    | 16V 2A polyfuse             | Bel Fuse     | 0ZRN0200FF1E    | 1        |                                                     |
+| J1                    | 5.5x2.5mm barrel jack       | Kycon        | KLDX-0202-B     | 1        |                                                     |
+| J2                    | 10-pin shrouded connector   | CNC Tech     | 3020-10-0100-00 | 1        |                                                     |
+| J8                    | 4-pin terminal block        | Würth        | 691137710004    | 1        |                                                     |
+| LED1                  | 5mm through-hole RGBLED     | Adafruit     | 1938            | 1        |                                                     |
+| U2                    | 2.54mm 8-pin female socket  | Würth        | 61300811821     | 2        | You can also cut down a longer socket               |
+| U2                    | TMC2208 SilentStepStick     | Watterott    | 20170003-002    | 1        | TMC2209 also works                                  |
+| SW1-SW4               | Cherry MX-compatible switch | Any          | Your favorite   | 4        |                                                     |
+
+
 
 # Electrical parts
 
 * TAL221 load cell 
 * Adafruit Feather RP2040
+* Ribbon cable Assmann WSW H3CCH-1006G-ND
 * Connectors
 
 # Other parts
