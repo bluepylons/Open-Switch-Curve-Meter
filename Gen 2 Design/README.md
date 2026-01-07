@@ -87,8 +87,6 @@ The PCB can be ordered off JLCPCB using the manufacturing files provided here.
 
 ## ADC board
 
-HX711 pitfalls
-
 The following additional through-hole parts are needed:
 
 | Reference designators | Part description            | Manufacturer | Part number     | Quantity | Notes                                               | 
@@ -99,6 +97,7 @@ The following additional through-hole parts are needed:
 
 D2 can be left unpopulated if D1 is populated,  but Littelfuse P4KE6.8A can be used if not (if JLCPCB is out of stock of D1, for instance)
 
+HX711 pitfalls
 
 ## Main board
 
@@ -123,12 +122,12 @@ The main board can be ordered as a bare PCB, which has additional through-hole p
 
 You will need the following electrical parts as well:
 
-| Part description                                             | Manufacturer | Part number     | Quantity | Notes                                                                  | 
-| ------------------------------------------------------------ | ------------ | --------------- | -------- | ---------------------------------------------------------------------- |
-| 500gf TAL221 load cell                                       | Sparkfun     | 14728           | 1        | Can also be found on Aliexpress                                        | 
-| 10-pin ribbon cable                                          | Assmann WSW  | H3CCH-1006G-ND  | 1        |                                                                        |
-| 12V 2A power supply 5.5x2.5mm barrel jack, center positivee  | EDATEC       | ED-PSU1202-US   | 1        | Easily substitued; I use the power supply for a WD external hard drive |
-| Alligator clip cable                                         | Adafruit     | 1008            | 1        | Easily substitued                                                      |
+| Part description                                             | Manufacturer | Part number     | Quantity | Notes                                                                   | 
+| ------------------------------------------------------------ | ------------ | --------------- | -------- | ----------------------------------------------------------------------- |
+| 500gf TAL221 load cell                                       | Sparkfun     | 14728           | 1        | Can also be found on Aliexpress                                         | 
+| 10-pin ribbon cable                                          | Assmann WSW  | H3CCH-1006G-ND  | 1        |                                                                         |
+| 12V 2A power supply 5.5x2.5mm barrel jack, center positivee  | EDATEC       | ED-PSU1202-US   | 1        | Easily substituted; I use the power supply for a WD external hard drive |
+| Alligator clip cable                                         | Adafruit     | 1008            | 1        | Easily substituted                                                      |
 
 # Other parts
 
