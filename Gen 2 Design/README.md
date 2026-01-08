@@ -24,9 +24,9 @@ The following parts are laser-cut out of metal. DXFs are provided [here](https:/
 | Switch-plate             | 1.5mm-1.6mm (0.059-0.063") | 1        |
 | Vertical plate           | 3mm-3.2mm (0.118-0.125")   | 1        |
 
-Aluminum is generally recommended for most of the parts, though other metals (steel, etc.) can work. For the baseplate stand, steel, brass, or stainless steel may be useful as the additional weight can provide more stability. All the parts on the ones I have built are cut out of aluminum 6061-T6.
+Aluminum is generally recommended for most of the parts, though other metals (steel, brass, etc.) can work. For the baseplate stand, steel, brass, or stainless steel may be useful as the additional weight can provide more stability. All the parts on the ones I have built are cut out of aluminum 6061-T6.
 
-Aluminum or plain steel are usually the cheapest materials. Note that stay may corrode or rust without treatment (e.g. painting, powder coating). 
+Aluminum or plain steel are usually the cheapest materials. Note that steel may corrode or rust without treatment (e.g. painting, powder coating). 
 
 In the US, I recommend [Sendcutsend](https://sendcutsend.com/). In the EU, [Laserboost](https://www.laserboost.com/) is a good source. 
 
@@ -38,7 +38,7 @@ I use Misumi 80/20-style extrusions, though tther brands of 20mm 80/20-style T-s
 
 | Misumi Part Number       | Description | Quantity |
 | ------------------------ | ----------- | -------- |
-| HFS5-2020-132-TPW        | Extrusion   | 1        |
+| HFS5-2020-132-TPW        | Extrusion   | 2        |
 | HNTAP5-5                 | M5 nuts     | 4        |
 
 ## 3D-printed pieces
