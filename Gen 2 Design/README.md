@@ -3,6 +3,9 @@
 **Order parts at your own risk. These files are provided as-is, and I am not responsible for any losses, harm, or damage incurred by following this guide, by ordering parts, by using the files provided, by using the resultant parts or assembled devices, or from any mistakes or errors in the files, ordering guide, or resultant parts.**
 
 # Gen 2 
+![Gen 2 Prototype](https://github.com/bluepylons/Open-Switch-Curve-Meter/blob/main/Pics/Gen-2-front.JPG?raw=true)
+![Gen 2 Prototype](https://github.com/bluepylons/Open-Switch-Curve-Meter/blob/main/Pics/Gen-2-side.JPG?raw=true)
+![Gen 2 Prototype](https://github.com/bluepylons/Open-Switch-Curve-Meter/blob/main/Pics/Gen-2-rear.JPG?raw=true)
 
 Due to the general jankiness of Gen 1, I decided to do a much neater redesign for Gen 2 back in 2021. I initially thought about [running a group buy](https://geekhack.org/index.php?topic=115453.0), though life has gotten in the way of that. I finally had some time to pick this project back up in late 2025, and am currently documenting the Gen 2 design to the point it can be easily replicated by other people. This document is very much a work in progress, though I have built and operated Gen 2. 
 
@@ -55,7 +58,7 @@ I have generally printed these out of PETG, though other materials such as ABS a
 
 ## Linear actuator 
 
-The design uses a cheap Chinese 50mm linear actuator with a 1mm pitch leadscrew. There's no exact part number for this. I ordered [this one](https://www.amazon.com/Sliding-Precision-Stepper-T-Shaped-Electric/dp/B07QBCG9YC/ref=sr_1_5?th=1) off Amazon; it is no longer available. However, [this], [this], [this], and [this] are likely compatible. [This](https://www.amazon.com/Linear-Actuator-Stepper-Milling-Machine/dp/B07K7FWDZJ/ref=sr_1_8) is likely compatible.
+The design uses a cheap Chinese 50mm linear actuator with a 1mm pitch leadscrew. There's no exact part number for this. I ordered [this one](https://www.amazon.com/Sliding-Precision-Stepper-T-Shaped-Electric/dp/B07QBCG9YC/ref=sr_1_5?th=1) off Amazon; it is no longer available. [This](https://www.amazon.com/Linear-Actuator-Stepper-Milling-Machine/dp/B07K7FWDZJ/ref=sr_1_8?th=1) likely works as a substitute, though the counterbored mounting hole positions for the overall unit is slightly different (55mm instead of 56mm), though I have slotted the mounting holes on Vertical plate to accommodate 54-56mm. 
 
 ## Hardware
 
