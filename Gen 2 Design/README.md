@@ -37,7 +37,9 @@ For Sendcutsend, deburring is recommended, though it still tends to leave a shar
 
 ## T-slotted extrusions and hardware 
 
-I use Misumi 80/20-style extrusions, though tther brands of 20mm 80/20-style T-slotted extrusions likely work. The extrusions are tapped M5x0.8 on each end (Misumi will do this for you; the part number specifies it). Note that nuts for other 2020 (such as McMaster or actual 80/20(R) hardware) are often incompatible as the slot opening on Misumi extrusions is a bit smaller. Be aware of this if ordering fasteners. 
+I use Misumi 80/20-style extrusions, though tther brands of 20mm 80/20-style T-slotted extrusions likely work. The extrusions are tapped M5x0.8 on each end (Misumi will do this for you; the part number specifies it). However, if you have the tools you can tap it yourself to save money; you can order HFS5-2020-132 if you want to tap it yourself.
+
+Note that nuts for other 2020 (such as McMaster or actual 80/20(R) hardware) are often incompatible as the slot opening on Misumi extrusions is a bit smaller. Be aware of this if ordering fasteners. 
 
 | Misumi Part Number       | Description | Quantity |
 | ------------------------ | ----------- | -------- |
@@ -54,7 +56,7 @@ The following parts are 3D-printed. STLs are available [here](https://github.com
 | ADC-PCB-spacer               | 1        |
 | Main-PCB-spacer              | 1        |
 
-I have generally printed these out of PETG, though other materials such as ABS and PLA are likely fine. 
+I have generally printed these out of PETG with a 0.2mm layer height, though other materials such as ABS and PLA are likely fine. 
 
 ## Linear actuator 
 
@@ -66,7 +68,7 @@ The following fasteners are needed:
 
 | Description                               | Quantity | McMaster-Carr part number | Notes                                                     | 
 | ----------------------------------------- | -------- | ------------------------- | --------------------------------------------------------- |
-| M3x5 ISO 14583 Torx !0 screw              | 16       | 90362A112                 | ISO 7380 button-head (McMaster 90991A111) would also work | 
+| M3x5 ISO 14583 Torx 10 screw              | 16       | 90362A112                 | ISO 7380 button-head (McMaster 90991A111) would also work | 
 | M3x8 screw (ISO 7380 Torx T10 used)       | 4        | 90991A111                 | Pretty much any head type works as a substitute           |
 | M3x10 ISO 7380 Torx T10 screw             | 12       | 90991A111                 |                                                           |
 | M3x10 ISO 4762 socket head cap screw      | 6        | 91292A113                 |                                                           | 
@@ -104,7 +106,7 @@ HX711 pitfalls
 
 ## Main board
 
-The main board can be ordered as a bare PCB, which has additional through-hole parts that need to be soldered or installed on. These can be sourced from Digikey, Mouser, or your electronic parts distributor of choice.
+The main board can be ordered as a bare PCB, which has additional through-hole parts that need to be soldered or installed on. These parts can be sourced from Digikey, Mouser, or your electronic parts distributor of choice.
 
 | Reference designators | Part description            | Manufacturer | Part number     | Quantity | Notes                                               | 
 | --------------------  | --------------------------- | ------------ | --------------- | -------- | --------------------------------------------------- | 
@@ -125,16 +127,16 @@ The main board can be ordered as a bare PCB, which has additional through-hole p
 
 You will need the following electrical parts as well:
 
-| Part description                                             | Manufacturer | Part number     | Quantity | Notes                                                                   | 
-| ------------------------------------------------------------ | ------------ | --------------- | -------- | ----------------------------------------------------------------------- |
-| 500gf TAL221 load cell                                       | Sparkfun     | 14728           | 1        | Can also be found on Aliexpress                                         | 
-| 10-pin ribbon cable                                          | Assmann WSW  | H3CCH-1006G-ND  | 1        |                                                                         |
-| 12V 2A power supply 5.5x2.5mm barrel jack, center positivee  | EDATEC       | ED-PSU1202-US   | 1        | Easily substituted; I use the power supply for a WD external hard drive |
-| Alligator clip cable                                         | Adafruit     | 1008            | 1        | Easily substituted                                                      |
+| Part description                                             | Manufacturer | Part number     | Quantity | Notes                                                                 | 
+| ------------------------------------------------------------ | ------------ | --------------- | -------- | --------------------------------------------------------------------- |
+| 500gf TAL221 load cell                                       | Sparkfun     | 14728           | 1        | Can also be found on Aliexpress                                       | 
+| 10-pin ribbon cable                                          | Assmann WSW  | H3CCH-1006G-ND  | 1        |                                                                       |
+| 12V 2A power supply 5.5x2.5mm barrel jack, center positivee  | EDATEC       | ED-PSU1202-US   | 1        | Easily substituted; I use the power supply for an external hard drive |
+| Alligator clip cable                                         | Adafruit     | 1008            | 1        | Easily substituted                                                    |
 
 # Other parts
 
-A 100g calibration weight is used to calibrate the load cell. These can easily be bought off Amazon for less than $1. 
+A 100g calibration weight is used to calibrate the load cell. These can easily be bought off Amazon or other places for fairly little money.
 
 
 # OPERATING PROCEDURE
