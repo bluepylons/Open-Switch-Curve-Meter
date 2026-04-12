@@ -3,24 +3,24 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 switch_name = "Kailh Box Navy" #switch_name is currently not used
-input_file = r"C:\Users\*User*\Documents\GitHub\Open-Switch-Curve-Meter\Processing-Python-script\Cherry-MX-Purple-RGB.csv"
-output_file = r"C:\Users\*User*\Documents\GitHub\Open-Switch-Curve-Meter\Processing-Python-script\Cherry-MX-Purple-RGB-processed.csv"
+input_file = r"C:\Users\James\Documents\GitHub\Open-Switch-Curve-Meter\Processing-Python-script\Gateron-EF-Grayish-2.csv"
+output_file = r"C:\Users\James\Documents\GitHub\Open-Switch-Curve-Meter\Processing-Python-script\Gateron-EF-Grayish-2-processed.csv"
 
 graph=False #Graphing still needs to be implemented
 graph_output_file = r"Wherever.png" #Graphing still needs to be implemented
 
 #parameters used to find the start and end (adjust if they don't work well)
 start_step = 0.3 #This is the change in consecutive measurements that indicates the start point for the force curve 
-end_step = start_step # This is the change in consequtive measurements that  indicates the  end point - 
+end_step = start_step # This is the change in consequtive measurements that indicates the end point
 
 #property of your force curve meter
 force_curve_meter_step_increment = 0.005 #the increments your force curve meter steps in (in mm)
 
-#properties of the actuation and release arrows
+#Lengths of the actuation and release arrows for the spreadsheet graph
 arrow_length = 10 #length for the actuation and release point arrows
 arrow_offset = 3 #How far the arrows should be from the actual force curve line, in gf 
 
-#start conditions used to find the start and end 
+#start conditions of variables used to find the start and end 
 started = False 
 index_start = 0 
 start_point = 0
